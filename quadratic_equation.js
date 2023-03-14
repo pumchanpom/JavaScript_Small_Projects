@@ -16,3 +16,4 @@ const quadraticEquationSolver = (a, b, c) => {
 console.log(quadraticEquationSolver(1, 3, -10));
 console.log(quadraticEquationSolver(10, -7, -12));
 console.log(quadraticEquationSolver(1, 3, 3));
+console.log(quadraticEquationSolver(1, 10, 25));
