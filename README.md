@@ -1,5 +1,6 @@
-# function_project
+# JavaScript Small Projects
 
-- [Guess the number.](guess_num.js)<br>
-- [Rock-Paper-Scissors Game](game.js)<br>
-- [Solve the quadratic equation.](quadratic_equation.js)
+- [Guess the number.](guessNumber.js)<br>
+- [Create Rock-Paper-Scissors Game.](rockPaperScissors.js)<br>
+- [Solve the quadratic equation.](quadraticEquation.js)<br>
+- [Select a random menu.](randomMenu.js)
