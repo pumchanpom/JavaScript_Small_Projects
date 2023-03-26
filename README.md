@@ -6,3 +6,4 @@
 - [Select a random menu.](randomMenu.js)<br>
 - [Create, retrieve, and add information about your sports team.](sportTeamStat.js)<br>
 - [Employ the Luhn algorithm to  determine whether a credit card number is valid.](creditCardChecker.js)
+- [Create a class with methods to encrypt and decrypt Caesar cipher.](shiftCipher.js)
