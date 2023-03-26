@@ -1,11 +1,3 @@
-// const cipher = new ShiftCipher(2);
-// cipher.encrypt('I love to code!'); // returns 'K NQXG VQ EQFG!'
-// // cipher.decrypt('K <3 OA RWRRA'); // returns 'i <3 my puppy'
-
-// Feel free to reference the Unicode Table as well as the JavaScript String methods including: 
-// toUpperCase(), toLowerCase(), charCodeAt() and fromCharCode() 
-
-
 class ShiftCipher {
     constructor(shift) {
         this.shift = shift;
@@ -55,9 +47,10 @@ class ShiftCipher {
     }
 }
 
-const cipherOneLetter = new ShiftCipher(1);
-cipherOneLetter.encrypt('Z'); // returns 'A'
-
+// Test class
 const cipher = new ShiftCipher(2);
 cipher.encrypt('I love to code!'); // returns 'K NQXG VQ EQFG!'
 cipher.decrypt('K <3 OA RWRRA'); // returns 'i <3 my puppy'
+
+const cipherOneLetter = new ShiftCipher(1);
+cipherOneLetter.encrypt('Z'); // returns 'A'
